@@ -1,17 +1,11 @@
 {
-  "name": "expo-example-aws-storage-upload",
-  "displayName": "expo-example-aws-storage-upload",
+  "name": "aws-storage-upload",
+  "displayName": "aws-storage-upload",
   "expo": {
-    "name": "expo-example-aws-storage-upload",
-    "slug": "expo-template-bare",
+    "name": "aws-storage-upload",
+    "slug": "aws-storage-upload",
     "version": "1.0.0",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "platforms": ["ios", "android", "web"],
+    "assetBundlePatterns": ["**/*"]
   }
 }
